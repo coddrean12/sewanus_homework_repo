@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: cursive;
+    background-color: rgb(231, 226, 226)
+}
+
+li{list-style-type: none;}
+
+.searchrecipe{
+width: 300px;
+height: 30px;
+margin-left: 550px;
+border-radius: 10%;
+margin-top: 100px;
+border: 1px solid rgb(231, 226, 226);
+outline: rgb(231, 226, 226);
+}
+
+.h1{
+    text-align: center;
+}
+
+.searchrecipebutton{
+    width: 75px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    margin-right: 100px;
+    border: 1px solid green;
+}
+
+.addrecipe{
+width: 1275px;
+height: 30px;
+margin-bottom: 50px;
+border: 1px solid rgb(231, 226, 226);
+border-radius: 5px;
+padding: 20px;
+outline: rgb(231, 226, 226);
+}       
+
+.box{
+    width: 1300px;
+    height: 400px;
+    border: 15px solid white;
+    background-color: white;
+    margin: 10px 50px;
+    border-radius: 10px;
+}
+
+.addrecipebutton{
+    width: 100px;
+    height: 33px;
+    border-radius: 7px;
+    background-color: rgb(53, 154, 187);
+    color: white;
+    border: 1px solid rgb(53, 154, 187);
+}
